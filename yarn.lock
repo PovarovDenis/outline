@@ -6683,10 +6683,10 @@ elliptic@^6.5.3:
     minimalistic-assert "^1.0.1"
     minimalistic-crypto-utils "^1.0.1"
 
-email-providers@^1.13.1:
-  version "1.13.1"
-  resolved "https://registry.yarnpkg.com/email-providers/-/email-providers-1.13.1.tgz#dfaea33a7744035510f0f64ed44098e7077f68c9"
-  integrity sha512-+BPUngcWMy9piqS33yeOcqJXYhIxet94UbK1B/uDOGfjLav4YlDAf9/RhplRypSDBSKx92STNH0PcwgCJnNATw==
+email-providers@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/email-providers/-/email-providers-2.1.0.tgz#17803808ebe6ad44702e9a4de3dad66ff0ae3f35"
+  integrity sha512-qCzR+oKgGh2KuwBmw3iD0ESDQVlCjyAEPLtdP+2u+TrakHAJVLvzTGd8xmtWAidn5Uif+Sdvi85KqIfXclpxug==
 
 emittery@^0.10.2:
   version "0.10.2"
